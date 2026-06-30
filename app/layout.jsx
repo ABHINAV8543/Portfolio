@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Abhinav Anand — Software Developer",
+  title: "Abhinav Anand | Software Developer",
   description:
     "Portfolio of Abhinav Anand, a B.Tech CSE student and competitive programmer building full-stack web applications.",
   keywords: [
@@ -24,7 +24,7 @@ export const metadata = {
     "Competitive Programming",
   ],
   openGraph: {
-    title: "Abhinav Anand — Software Developer",
+    title: "Abhinav Anand | Software Developer",
     description:
       "Full-stack developer and competitive programmer. B.Tech CSE at ABES Engineering College.",
     type: "website",
