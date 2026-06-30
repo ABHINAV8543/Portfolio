@@ -82,7 +82,7 @@ const PROJECTS = [
       "Features a dynamic invoice engine with custom fields, automated tax calculations, custom charges, and round-off handling. Migrated from SQLite to Turso/libSQL for Vercel serverless deployment.",
     ],
     stack: ["JavaScript", "Node.js", "Turso/libSQL", "Vercel"],
-    liveUrl: "https://bill-flow-seven.vercel.app/",
+    liveUrl: "https://project.abhinavanand.me/",
     repoUrl: "https://github.com/ABHINAV8543/BillFlow",
   },
   {
